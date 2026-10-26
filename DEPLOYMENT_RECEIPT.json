@@ -1,0 +1,14 @@
+{
+  "project": "wolfgang-pauli-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "GRbzjK7cREPVKdCFNwjtiK3Nag9PJmKB6uaKiWVJTaA1",
+  "vault_account": "HaC4KDhR4wSG7Z4X27QbnY3KeC6a2EMYw5KeeRyMeLw6",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2r8p6XkE62b2UeXtksShZ7Dmg6AD18usCjP1ni1wkXAwk8DFmvXKyyP1jtZUvMudRscTiTEHd8V1oStzNpevHPpS",
+  "account_tx": "4nnT9piMYvvtQtUwaC72zPfaFX4MWV1FGJrBsujdpiNGLk2jFfLtXJqwaKEDjqq4JrWNyfDDRLdpXNnN9UQJAfEi",
+  "mint_tx": "3ZMsyKT1RxXJ5uZc6PNvfeFBVuLSEfMmcV6qKuiG7BPzhKzgqGz4TGXnbRVTzZKAMtHm761T7Z8CT59juQRCdek7",
+  "solana_explorer_mint": "https://explorer.solana.com/address/GRbzjK7cREPVKdCFNwjtiK3Nag9PJmKB6uaKiWVJTaA1?cluster=devnet",
+  "timestamp": "2026-10-26 17:04:35 UTC"
+}
